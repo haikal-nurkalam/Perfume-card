@@ -9,10 +9,6 @@ The project consists of two main files:
 1. `index.html`: This HTML file contains the structure and content of the perfume card.
 2. `style.css`: This CSS file contains the styling for the perfume card.
 
-## Preview
-
-![Perfume Card Preview](./assets/perfume-card-preview.png)
-
 ## Features
 
 - A visually appealing perfume card design.
